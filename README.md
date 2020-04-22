@@ -1,0 +1,2 @@
+# butterknifeOrDataBinding
+方便自定义View和框架的切换
